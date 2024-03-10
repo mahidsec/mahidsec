@@ -5,10 +5,6 @@
 <h1 align="center">I'm <strong>Mohammad Mahid Alam</strong> AKA <strong>mahidsec</strong>strong></h1>
 <h3 align="center">From Bangladesh</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahidsec&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="mahidsec" /></p></div>
 
