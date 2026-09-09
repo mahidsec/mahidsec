@@ -11602,6 +11602,23 @@
       "visible": true,
       "zIndex": 6,
       "instanceId": "widget_1788933864004_5"
+    },
+    {
+      "instanceId": "widget_1788934707516",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 578
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
     }
   ],
   "globalStyles": {
